@@ -4,3 +4,4 @@ public class App {
     System.out.println("Hello from my-app");
   }
 }
+// Jenkins test build
